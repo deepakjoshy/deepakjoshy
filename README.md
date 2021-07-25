@@ -9,7 +9,7 @@
 - 📫 How to reach me: www.linkedin.com/in/deepakjoshy
 - 😄 Pronouns: He
 - ⚡ Fun fact: Gamer
-
+- 🛠 Current Side Projects: Raspberry PI Home Server | Chrome Extension | Fiori Reusable Components
 
 Portfolio : https://deepakjoshy.github.io/
 
