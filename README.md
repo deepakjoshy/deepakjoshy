@@ -11,7 +11,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: Gamer
 - 🛠 Current Side Projects: Raspberry PI Home Server | Chrome Extension | Fiori Reusable Components
-
+<h2></h2>
 <h2><a href="https://deepakjoshy.github.io/" target="_blank">Portfolio</a></h2>
 
 
@@ -36,20 +36,20 @@
 <br/>
 <br/>
 <br/>
-
+<h2></h2>
 <h3 align="center">Fiori Launchpad Helper Chrome Extension : <a href="https://chrome.google.com/webstore/detail/fiori-launchpad-helper/mnapalcpbnknfpafoolfmefgkgebjpee?hl=en" target="_blank">Chrome Web Store</a></h3>
 
 <img src="https://lh3.googleusercontent.com/kitY8jbyNYTeS7zhaNbeFaV1_FT-XAyu1Drt5DtD5UJbxgTThq7BwFDeGQhICY6-reqJlBFY-AsSi0eF-FQrYDouJGM=w640-h400-e365-rj-sc0x00ffffff" />
 <img src="https://lh3.googleusercontent.com/HKfliVpz3vp2LJD0jd8dhC2ahaE2JChj5ZPHW_00zQvjT48j-ja7pC_i4P7sbUtoCIRJ4K2T0IETVvOWbJ5gZyTGQw=w640-h400-e365-rj-sc0x00ffffff" />
 
-
+<h2></h2>
 <h3 align="center">SAP Conversational AI</h3>
 <span align="center" ><img align="center" src="https://raw.githubusercontent.com/deepakjoshy/deepakjoshy.github.io/main/images/SAPChatbot.jpeg" /></span>
 
  <p> </p>
 <br/>
 <br/>
-
+<h2></h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakjoshy&show_icons=true&locale=en&layout=compact" alt="deepakjoshy" /></p>
 
