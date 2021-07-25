@@ -7,12 +7,12 @@
 - 👯 I’m looking to collaborate on developing Chrome Extension for Fiori
 - 🤔 I’m looking for help with SAP Conversational AI
 - 💬 Ask me about SAP Technical Stuff
-- 📫 How to reach me: <a href="www.linkedin.com/in/deepakjoshy">LinkedIn</a>
+- 📫 How to reach me: <a href="www.linkedin.com/in/deepakjoshy" target="_blank">LinkedIn</a>
 - 😄 Pronouns: He
 - ⚡ Fun fact: Gamer
 - 🛠 Current Side Projects: Raspberry PI Home Server | Chrome Extension | Fiori Reusable Components
 
-Portfolio : https://deepakjoshy.github.io/
+<h2><a href="https://deepakjoshy.github.io/" target="_blank">Portfolio</a></h2>
 
 
 
@@ -37,7 +37,7 @@ Portfolio : https://deepakjoshy.github.io/
 <br/>
 <br/>
 
-<h3 align="center">Fiori Launchpad Helper Chrome Extension : <a href="https://chrome.google.com/webstore/detail/fiori-launchpad-helper/mnapalcpbnknfpafoolfmefgkgebjpee?hl=en">Chrome Web Store</a></h3>
+<h3 align="center">Fiori Launchpad Helper Chrome Extension : <a href="https://chrome.google.com/webstore/detail/fiori-launchpad-helper/mnapalcpbnknfpafoolfmefgkgebjpee?hl=en" target="_blank">Chrome Web Store</a></h3>
 
 <img src="https://lh3.googleusercontent.com/kitY8jbyNYTeS7zhaNbeFaV1_FT-XAyu1Drt5DtD5UJbxgTThq7BwFDeGQhICY6-reqJlBFY-AsSi0eF-FQrYDouJGM=w640-h400-e365-rj-sc0x00ffffff" />
 <img src="https://lh3.googleusercontent.com/HKfliVpz3vp2LJD0jd8dhC2ahaE2JChj5ZPHW_00zQvjT48j-ja7pC_i4P7sbUtoCIRJ4K2T0IETVvOWbJ5gZyTGQw=w640-h400-e365-rj-sc0x00ffffff" />
