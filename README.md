@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Deepak Joshy</h1>
+  <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Deepak Joshy</h1>
 
 
 
@@ -44,7 +44,11 @@
 
 
 <h3 align="center">SAP Conversational AI</h3>
-<img src="https://raw.githubusercontent.com/deepakjoshy/deepakjoshy.github.io/main/images/SAPChatbot.jpeg" />
+<span align="center" ><img align="center" src="https://raw.githubusercontent.com/deepakjoshy/deepakjoshy.github.io/main/images/SAPChatbot.jpeg" /></span>
+
+ <p> </p>
+<br/>
+<br/>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakjoshy&show_icons=true&locale=en&layout=compact" alt="deepakjoshy" /></p>
@@ -53,7 +57,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakjoshy&" alt="deepakjoshy" /></p>
 
- 
+
 
 
 
