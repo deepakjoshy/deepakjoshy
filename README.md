@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Gamer
 - 🛠 Current Side Projects: Raspberry PI Home Server | Chrome Extension | Fiori Reusable Components
 <h2></h2>
-<h2><a href="https://deepakjoshy.github.io/" target="_blank">Portfolio</a></h2>
+<h2><a href="https://deepakjoshy.tech/" target="_blank">Portfolio</a></h2>
 
 
 
