@@ -10,7 +10,6 @@ This is where i try, test and break stuff 😁...
 - 🤔 I’m looking for help with SAP Conversational AI
 - 💬 Ask me about SAP Technical Stuff
 - 📫 How to reach me: <a href="www.linkedin.com/in/deepakjoshy" target="_blank">LinkedIn</a>
-- 😄 Pronouns: He
 - ⚡ Fun fact: Gamer
 - 🛠 Current Side Projects: Raspberry Pi Home Server | Chrome Extension | Fiori Reusable Components
 <h2></h2>
