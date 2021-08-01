@@ -12,7 +12,7 @@ This is where i test and break stuff..
 - 📫 How to reach me: <a href="www.linkedin.com/in/deepakjoshy" target="_blank">LinkedIn</a>
 - 😄 Pronouns: He
 - ⚡ Fun fact: Gamer
-- 🛠 Current Side Projects: Raspberry PI Home Server | Chrome Extension | Fiori Reusable Components
+- 🛠 Current Side Projects: Raspberry Pi Home Server | Chrome Extension | Fiori Reusable Components
 <h2></h2>
 <h2><a href="https://deepakjoshy.tech/" target="_blank">Portfolio</a></h2>
 
