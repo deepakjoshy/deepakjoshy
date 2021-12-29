@@ -11,7 +11,7 @@ This is where i try, test and break stuff 😁....
 - 💬 Ask me about SAP Technical Stuff
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/deepakjoshy" target="_blank">LinkedIn</a>
 - ⚡ Fun fact: Gamer
-- 🛠 Current Side Projects: Raspberry Pi Home Server | Chrome Extension | Fiori Reusable Components
+- 🛠 Current Side Projects: Raspberry Pi Home Server | Chrome Extensions | Fiori Reusable Components
 <h2></h2>
 <h2><a href="https://deepakjoshy.tech/" target="_blank">Portfolio</a></h2>
 
