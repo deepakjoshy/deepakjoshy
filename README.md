@@ -13,7 +13,7 @@ This is where i try, test and break stuff 😁....
 - ⚡ Fun fact: Gamer
 - 🛠 Current Side Projects: Raspberry Pi Home Server | Chrome Extensions | Fiori Reusable Components
 <h2></h2>
-<h2><a href="https://deepakjoshy.tech/" target="_blank">Portfolio</a></h2>
+<h2><a href="https://www.deepakjoshy.dev/" target="_blank">Portfolio</a></h2>
 
 
 
