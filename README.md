@@ -7,7 +7,7 @@ This is where i try, test and break stuff 😁....
 - 🔭 I’m currently working on SAP S/4 HANA
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on developing Chrome Extension for Fiori
-- 🤔 I’m looking for help with SAP Conversational AI
+- 🤔 I’m looking for help with SAP Conversational AI and SAP BTP
 - 💬 Ask me about SAP Technical Stuff
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/deepakjoshy" target="_blank">LinkedIn</a>
 - ⚡ Fun fact: Gamer
