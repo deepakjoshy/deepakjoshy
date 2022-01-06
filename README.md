@@ -47,6 +47,7 @@ This is where i try, test and break stuff 😁....
 <h2></h2> 
 <h2></h2>
 <h4><a href="https://github.com/deepakjoshy/RaspberryPi" target="_blank">Guide for beginner's to setup Raspberry Pi Home Server</a></h3>  
+<span align="center" ><img align="center" src="https://raw.githubusercontent.com/deepakjoshy/RaspberryPi/main/Assets/RP.jpeg" width="636" height="400" onclick="" /></span>
 <h2></h2> 
 <h3 align="center">Fiori Launchpad Helper Chrome Extension : <a href="https://chrome.google.com/webstore/detail/fiori-launchpad-helper/mnapalcpbnknfpafoolfmefgkgebjpee?hl=en" target="_blank">Chrome Web Store</a></h3>
 
